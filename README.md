@@ -40,6 +40,6 @@ asd><span<svg width="100%" height="100">
 <label for="fake-button">🔘 Click Me!</label>
 
 <picture>
-  <source srcset="https://stuff.s3.calliope.rip/1.png" media="(min-resolution: 150dpi)">
+  <source srcset="https://stuff.s3.calliope.rip/1.png" media="(min-resolution: 320dpi)">
   <img class="one" src="https://stuff.s3.calliope.rip/2.png" alt="Profile Picture">
 </picture>

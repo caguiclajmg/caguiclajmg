@@ -1,9 +1,5 @@
 ## Boat goes binted
 
-<>
-<![CDATA[
-  <script>
-    alert(1)
-  </script>
-]]>
-</html>
+<svg>
+  <image xlink:href="https://stuff.s3.calliope.rip/1.png"></image>
+</svg>

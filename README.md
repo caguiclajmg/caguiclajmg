@@ -44,3 +44,9 @@ asd><span<svg width="100%" height="100">
   <source srcset="https://stuff.s3.calliope.rip/2.png" media="(max-resolution: 199dpi)">
   <img src="https://stuff.s3.calliope.rip/1.png">
 </picture>
+
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red">
+    <animate attributeName="r" values="40;50;40" dur="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>

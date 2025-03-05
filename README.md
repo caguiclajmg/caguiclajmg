@@ -1,3 +1,12 @@
 ## Boat goes binted
 
-<input type="checkbox" />
+<style>
+  <style>
+    .one {
+      display: block;
+    }
+    .one:active {
+      display: none;
+    }
+  </style>
+</style>

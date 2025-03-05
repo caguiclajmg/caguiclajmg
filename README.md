@@ -41,5 +41,5 @@ asd><span<svg width="100%" height="100">
 
 <picture>
   <source srcset="https://stuff.s3.calliope.rip/1.png" media="(prefers-color-scheme: dark)">
-  <img src="https://stuff.s3.calliope.rip/2.png" alt="Profile Picture">
+  <img class="one" src="https://stuff.s3.calliope.rip/2.png" alt="Profile Picture">
 </picture>

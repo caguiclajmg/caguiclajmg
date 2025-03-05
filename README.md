@@ -40,6 +40,6 @@ asd><span<svg width="100%" height="100">
 <label for="fake-button">🔘 Click Me!</label>
 
 <picture>
-  <source srcset="https://your-dark-mode-image.png" media="(prefers-color-scheme: dark)">
-  <img src="https://your-light-mode-image.png" alt="Profile Picture">
+  <source srcset="https://stuff.s3.calliope.rip/1.png" media="(prefers-color-scheme: dark)">
+  <img src="https://stuff.s3.calliope.rip/2.png" alt="Profile Picture">
 </picture>

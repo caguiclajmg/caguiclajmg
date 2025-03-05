@@ -45,8 +45,10 @@ asd><span<svg width="100%" height="100">
   <img src="https://stuff.s3.calliope.rip/1.png">
 </picture>
 
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red">
-    <animate attributeName="r" values="40;50;40" dur="1s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+<object data="https://stuff.s3.calliope.rip/test.svg" type="image/svg+xml">
+  <img src="yourfallback.jpg" />
+</object>
+
+<svg width="1280" height="720">       
+     <image xlink:href="https://stuff.s3.calliope.rip/2.png" width="1280" height="720" />    
+</svg>  

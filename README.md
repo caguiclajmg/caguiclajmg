@@ -1,6 +1,8 @@
 ## Boat goes binted
 
-<img src="https://stuff.s3.calliope.rip/1.png" onload="alert(1)">
-<svg>
-  <image xlink:href="https://stuff.s3.calliope.rip/1.png"></image>
+<svg width="100%" height="100">
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-size="24"
+        onmousemove="evt.target.setAttribute('x', evt.clientX); evt.target.setAttribute('y', evt.clientY)">
+    Move your mouse!
+  </text>
 </svg>
